@@ -1,0 +1,122 @@
+/* Reset */
+body {
+    margin:0;
+    padding:0;
+}
+
+.main {
+    margin:5px;
+    display:block;
+}
+
+.box_espana {
+    border: 2px solid #808080;
+    height: 300px;
+    width: 45%;
+    padding: 5px;
+    display:inline-block;
+}
+
+/* Bandera de España */
+.espana_red {
+    background-color: red;
+    height: 33.33%;
+}
+
+.espana_yellow {
+    background-color: gold;
+    height:33.33%;
+}
+
+.box_dinamarca {
+    border: 2px solid #808080;
+    height: 300px;
+    width: 45%;
+    padding: 5px;
+    display:inline-block;
+    margin:2px solid white;
+}
+
+/* Bandera Dinamarca */
+.dinamarca_red1 {
+    background-color: firebrick;
+    height: 48%;
+    width: 31%;
+    float:left;
+    margin-right:9px;
+}
+
+.dinamarca_red2 {
+    background-color: firebrick;
+    height: 48%;
+    width: 66%;
+    float:left;
+}
+
+.dinamarca_red3 {
+    background-color: firebrick;
+    height: 48%;
+    width: 31%;
+    float:left;
+    margin-right:9px;
+    margin-top:11px;
+}
+
+.dinamarca_red4 {
+    background-color: firebrick;
+    height: 48%;
+    width: 66%;
+    float:left;
+    margin-top:11px;
+}
+
+.box_arabia {
+    border: 2px solid #808080;
+    height: 300px;
+    width: 45%;
+    padding: 5px;
+    display:inline-block;
+}
+
+.arabia_red{
+    background-color: red;
+    height: 100%;
+    width: 29%;
+    float:left;
+}
+
+.arabia_derecho{
+    width: 100%;
+}
+
+.arabia_green {
+    background-color: green;
+    height:100px;
+}
+
+.arabia_white {
+    background-color: white;
+    height: 100px;
+}
+
+.arabia_black {
+    background-color: black;
+    height: 100px;
+}
+
+.box_japon {
+    border: 2px solid #808080;
+    height: 305px;
+    width: 46%;
+    padding: 2px;
+    display:inline-block;
+    
+}
+
+.japon_red {
+    background-color: red;
+    height:50%;
+    width: 50%;
+    border-radius: 150px;
+    margin:75px;
+}

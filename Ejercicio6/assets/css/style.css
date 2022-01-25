@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.bateria {
+    position:relative ;
+    left:0%;
+}
+
+.ribbon {
+    position:absolute;
+    left: 265px;
+    top: 290px;
+}

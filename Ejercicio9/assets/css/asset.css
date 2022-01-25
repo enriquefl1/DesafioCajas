@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+
+.navbar{
+    position: absolute;
+    top:0px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+.box {
+    float:left;
+    border: 2px solid #808080;
+    height: 240px;
+    width: 10%;
+    background-color: lightgrey;
+
+}
+
+.box2 {
+    border: 2px solid #808080;
+    height: 240px;
+}
+
+.footer {
+    border: 2px solid #808080;
+    background-color:linen;
+    text-align: center;
+}
+.separa {
+    height: 50px;
+}

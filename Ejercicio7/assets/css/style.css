@@ -1,0 +1,15 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    background-color: burlywood;
+}
+
+
+.ribbon {
+    position:absolute;
+    right: 0%;
+    top: 0%;
+}
